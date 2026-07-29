@@ -11,3 +11,6 @@ def checkdivisibility(nums):
 
 usernumber = int(input('Enter a number:'))
 print(checkdivisibility(usernumber))
+
+# Time Complexity : O(N) The loop runs n times
+# Space Complexity : O(1) Only a single variable stored in the memory
