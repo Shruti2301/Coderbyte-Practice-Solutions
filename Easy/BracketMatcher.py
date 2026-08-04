@@ -33,3 +33,7 @@ def BracketMatcher(strParam : str) -> int:
     
 print(BracketMatcher("(hello(world))"))
 print(BracketMatcher("((hello(world))"))
+
+def BracketMatcher(strParam):
+
+BracketMatcher(input())
